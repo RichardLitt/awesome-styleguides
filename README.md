@@ -32,6 +32,9 @@ A list of styleguides
 
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
+ 
+### JSON
+* [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
 ## Python
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
