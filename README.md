@@ -21,3 +21,4 @@ A list of styleguides I think are awesome
 
 ## Python
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
+* [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
