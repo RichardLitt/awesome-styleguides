@@ -18,3 +18,6 @@ A list of styleguides I think are awesome
 ## HTML // CSS
 * [Github](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+
+## Python
+* [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
