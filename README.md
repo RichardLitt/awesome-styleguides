@@ -18,3 +18,6 @@ A list of styleguides I think are awesome
 ## HTML // CSS
 * [Github](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+
+## Ruby
+* [bbatsov](https://github.com/bbatsov/ruby-style-guide)
