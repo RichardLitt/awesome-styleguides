@@ -3,9 +3,19 @@ awesome-styleguides
 
 A list of styleguides
 
-## HTML // CSS
+## HTML 
+* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+
+## CSS
 * [Github](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
+* [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)
+* [Smashing Magazine](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
+* [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
+
+## SASS
+* [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 
 ##Javascript
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
