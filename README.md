@@ -1,7 +1,7 @@
 awesome-styleguides
 ===================
 
-A list of styleguides I think are awesome
+A list of styleguides
 
 ## HTML // CSS
 * [Github](https://github.com/styleguide/css)
