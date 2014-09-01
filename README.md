@@ -17,6 +17,11 @@ A list of styleguides
 ## SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 
+## Java
+* [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
+* [Google](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Android](http://source.android.com/source/code-style.html)
+
 ##Javascript
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [AirBnB](https://github.com/airbnb/javascript)
