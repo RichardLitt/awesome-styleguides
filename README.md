@@ -23,6 +23,11 @@ A list of styleguides
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
 
+## Objecive-C
+* [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
+* [Github](https://github.com/github/objective-c-style-guide)
+* [raywenderlich](https://github.com/raywenderlich/objective-c-style-guide)
+
 ## Python
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
