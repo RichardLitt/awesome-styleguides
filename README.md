@@ -32,3 +32,8 @@ A list of styleguides
 
 ### Ruby on Rails
 * [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide)
+
+## Swift
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
+* [Github](https://github.com/github/swift-style-guide)
+* [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
