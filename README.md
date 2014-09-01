@@ -14,6 +14,7 @@ A list of styleguides I think are awesome
 * [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angularjs-styleguide)
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide)  
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
+* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide)
 
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
