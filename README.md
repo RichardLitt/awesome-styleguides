@@ -4,13 +4,13 @@ awesome-styleguides
 A list of styleguides
 
 ## HTML // CSS
-* [Github](https://github.com/styleguide/css)
+* [GitHub](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ##Javascript
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [AirBnB](https://github.com/airbnb/javascript)
-* [Github](https://github.com/styleguide/javascript/1.0)
+* [GitHub](https://github.com/styleguide/javascript/1.0)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ### AngularJS
@@ -35,5 +35,5 @@ A list of styleguides
 
 ## Swift
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
-* [Github](https://github.com/github/swift-style-guide)
+* [GitHub](https://github.com/github/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
