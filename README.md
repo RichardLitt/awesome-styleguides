@@ -7,7 +7,7 @@ A list of styleguides
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ## CSS
-* [Github](https://github.com/styleguide/css)
+* [GitHub](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
 * [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)
@@ -20,7 +20,7 @@ A list of styleguides
 ##Javascript
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [AirBnB](https://github.com/airbnb/javascript)
-* [Github](https://github.com/styleguide/javascript/1.0)
+* [GitHub](https://github.com/styleguide/javascript/1.0)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ### AngularJS
