@@ -23,9 +23,9 @@ A list of styleguides
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
 
-## Objecive-C
+## Objective-C
 * [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
-* [Github](https://github.com/github/objective-c-style-guide)
+* [GitHub](https://github.com/github/objective-c-style-guide)
 * [raywenderlich](https://github.com/raywenderlich/objective-c-style-guide)
 
 ## Python
