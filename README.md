@@ -21,3 +21,6 @@ A list of styleguides I think are awesome
 
 ## Ruby
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)
+
+### Ruby on Rails
+* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide)
