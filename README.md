@@ -1,12 +1,16 @@
 awesome-styleguides
 ===================
 
-A list of styleguides I think are awesome
+A list of styleguides
+
+## HTML // CSS
+* [GitHub](https://github.com/styleguide/css)
+* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ##Javascript
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [AirBnB](https://github.com/airbnb/javascript)
-* [Github](https://github.com/styleguide/javascript/1.0)
+* [GitHub](https://github.com/styleguide/javascript/1.0)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ### AngularJS
@@ -19,10 +23,6 @@ A list of styleguides I think are awesome
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
 
-## HTML // CSS
-* [Github](https://github.com/styleguide/css)
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-
 ## Python
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
@@ -32,3 +32,8 @@ A list of styleguides I think are awesome
 
 ### Ruby on Rails
 * [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide)
+
+## Swift
+* [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
+* [GitHub](https://github.com/github/swift-style-guide)
+* [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
