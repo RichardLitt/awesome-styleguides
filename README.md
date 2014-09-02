@@ -41,6 +41,11 @@ A list of styleguides
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
+## Objective-C
+* [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
+* [GitHub](https://github.com/github/objective-c-style-guide)
+* [raywenderlich](https://github.com/raywenderlich/objective-c-style-guide)
+
 ## Python
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
