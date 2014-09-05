@@ -44,6 +44,9 @@ A list of styleguides
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
+## Lisp
+* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
+
 ## Objective-C
 * [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
 * [GitHub](https://github.com/github/objective-c-style-guide)
