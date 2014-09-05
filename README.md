@@ -3,9 +3,6 @@ awesome-styleguides
 
 A list of styleguides
 
-## HTML 
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-
 ## CSS
 * [GitHub](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
@@ -14,8 +11,11 @@ A list of styleguides
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
 * [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
 
-## SASS
+### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
+
+## HTML 
+* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ## Java
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
@@ -37,6 +37,9 @@ A list of styleguides
 
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
+
+### HTTP Design
+* [http-api-design](https://github.com/interagent/http-api-design)
  
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
