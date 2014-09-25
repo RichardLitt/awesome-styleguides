@@ -27,6 +27,7 @@ A list of styleguides
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [GitHub](https://github.com/styleguide/javascript/1.0)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Mozilla/pdfj.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 
 ### AngularJS
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
