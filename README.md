@@ -57,6 +57,7 @@ A list of styleguides
 ## Python
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
+* [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
 
 ## Ruby
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)
