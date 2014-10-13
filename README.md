@@ -31,6 +31,7 @@ A list of styleguides
 * [Mozilla/pdfj.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 
 ### AngularJS
+* [gocardless](https://github.com/gocardless/angularjs-style-guide)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 * [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angularjs-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide)
