@@ -13,6 +13,7 @@ A list of styleguides
 
 ### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
+* [Sass Guidelines](http://sass-guidelin.es/)
 
 ## HTML 
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
