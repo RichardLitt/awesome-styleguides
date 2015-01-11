@@ -3,6 +3,9 @@ awesome-styleguides
 
 A list of styleguides
 
+## How to build a styleguide
+* [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet
+
 ## CSS
 * [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)
 * [GitHub](https://github.com/styleguide/css)
