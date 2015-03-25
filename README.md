@@ -22,6 +22,8 @@ A list of styleguides
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
 * [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
+* [Heroku](http://purple.herokuapp.com/#)
+* [Recess](http://twitter.github.io/recess/)
 
 ### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
@@ -47,6 +49,10 @@ A list of styleguides
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide)
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide)  
   * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
+
+### EmberJS
+* [EmberJS](https://github.com/emberjs/ember.js/blob/master/STYLEGUIDE.md)
+* [EmberCLI](http://www.ember-cli.com/)
 
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
@@ -87,3 +93,9 @@ A list of styleguides
 * [GitHub](https://github.com/github/swift-style-guide)
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
+
+# Design Related
+* [Pixelmator - Getting Started](http://www.pixelmator.com/tutorials/get-started/)
+* [Sketch Tricks](https://medium.com/sketch-tricks)
+* [Sketch Land](http://sketch.land/)
+* [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
