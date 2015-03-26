@@ -22,6 +22,7 @@ A list of styleguides
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
 * [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
+* [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices)
 
 ### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
