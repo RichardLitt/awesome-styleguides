@@ -10,7 +10,7 @@ A list of styleguides
 * [Narkoz](https://github.com/narkoz/guides)
 * [Styleguides.io](https://github.com/maban/styleguides)
 
-# Front End
+# Styleguides
 
 ## Generic
 * [frontend-guidelines[(https://github.com/bendc/frontend-guidelines)
@@ -30,7 +30,12 @@ A list of styleguides
 ## HTML 
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
-##Javascript
+## Java
+* [Android](http://source.android.com/source/code-style.html)
+* [Google](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
+
+## Javascript
 * [AirBnB](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [GitHub](https://github.com/styleguide/javascript/1.0)
@@ -56,13 +61,6 @@ A list of styleguides
  
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
-
-# Backend
-
-## Java
-* [Android](http://source.android.com/source/code-style.html)
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-* [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
