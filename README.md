@@ -27,6 +27,9 @@ A list of styleguides
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 * [Sass Guidelines](http://sass-guidelin.es/)
 
+## Git
+* [agis-](https://github.com/agis-/git-style-guide)
+
 ## HTML 
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
