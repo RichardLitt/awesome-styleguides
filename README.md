@@ -9,6 +9,7 @@ A list of styleguides
 #### Other Styleguide Lists
 * [Narkoz](https://github.com/narkoz/guides)
 * [Styleguides.io](https://github.com/maban/styleguides)
+* [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/)
 
 # Styleguides
 
