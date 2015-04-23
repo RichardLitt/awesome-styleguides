@@ -63,6 +63,7 @@ A list of styleguides
 
 ### HTTP Design
 * [http-api-design](https://github.com/interagent/http-api-design)
+* [http-api-guide](https://github.com/bolasblack/http-api-guide) _Chinese_
  
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
