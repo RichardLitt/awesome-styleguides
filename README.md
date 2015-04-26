@@ -49,6 +49,7 @@ A list of styleguides
 * [mattdesl](https://github.com/mattdesl/module-best-practices) _Only for javascript modules_
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [feross/standard](https://github.com/feross/standard)
+* [hapi](http://hapijs.com/styleguide)
 
 ### AngularJS
 * [gocardless](https://github.com/gocardless/angularjs-style-guide)
