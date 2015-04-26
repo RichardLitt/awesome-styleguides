@@ -48,7 +48,7 @@ A list of styleguides
 * [Joyent](https://www.joyent.com/developers/node/design)
 * [mattdesl](https://github.com/mattdesl/module-best-practices) _Only for javascript modules_
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
-* [ferrss/standard](https://github.com/feross/standard)
+* [feross/standard](https://github.com/feross/standard)
 
 ### AngularJS
 * [gocardless](https://github.com/gocardless/angularjs-style-guide)
