@@ -68,6 +68,9 @@ A list of styleguides
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
+### React
+* [John Cobb](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
 
