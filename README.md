@@ -15,7 +15,7 @@ A list of styleguides
 # Styleguides
 
 ## Generic
-* [frontend-guidelines[(https://github.com/bendc/frontend-guidelines)
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
 
 ## CSS
 * [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)
@@ -33,7 +33,7 @@ A list of styleguides
 ## Git
 * [agis-](https://github.com/agis-/git-style-guide)
 
-## HTML 
+## HTML
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ## Java
@@ -67,7 +67,7 @@ A list of styleguides
 ### HTTP Design
 * [http-api-design](https://github.com/interagent/http-api-design)
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) _Chinese_
- 
+
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
