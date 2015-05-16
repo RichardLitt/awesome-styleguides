@@ -25,6 +25,7 @@ A list of styleguides
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
 * [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices)
+* [rscss](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
 
 ### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
@@ -51,6 +52,7 @@ A list of styleguides
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [feross/standard](https://github.com/feross/standard)
 * [hapi](http://hapijs.com/styleguide)
+* [rsjs](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
 
 ### AngularJS
 * [gocardless](https://github.com/gocardless/angularjs-style-guide)
