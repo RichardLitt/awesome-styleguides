@@ -23,6 +23,7 @@ A list of styleguides
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
+* [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 * [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices)
 * [rscss](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
