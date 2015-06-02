@@ -16,6 +16,7 @@ A list of styleguides
 
 ## Generic
 * [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
+* [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
 * [CSSWizardry](http://cssguidelin.es/)
