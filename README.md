@@ -49,7 +49,6 @@ A list of styleguides
 * [GitHub](https://github.com/styleguide/javascript/1.0)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Joyent](https://www.joyent.com/developers/node/design)
-* [mattdesl](https://github.com/mattdesl/module-best-practices) _Only for javascript modules_
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [feross/standard](https://github.com/feross/standard)
 * [hapi](http://hapijs.com/styleguide)
@@ -73,6 +72,9 @@ A list of styleguides
 
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
+
+### Modules
+* [mattdesl](https://github.com/mattdesl/module-best-practices)
 
 ### React
 * [John Cobb](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
