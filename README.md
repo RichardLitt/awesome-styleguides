@@ -114,6 +114,9 @@ A list of styleguides
 ### Ruby on Rails
 * [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide)
 
+## Rust
+* [aturon](https://aturon.github.io)
+
 ## Swift
 * [GitHub](https://github.com/github/swift-style-guide)
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
