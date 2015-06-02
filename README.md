@@ -18,7 +18,7 @@ A list of styleguides
 * [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
 
 ## CSS
-* [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)
+* [CSSWizardry](http://cssguidelin.es/)
 * [GitHub](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
