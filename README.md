@@ -74,6 +74,9 @@ A list of styleguides
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
+### jQuery
+* [Pragmatic jQuery](https://github.com/yuanyan/pragmatic-jquery)
+
 ### Modules
 * [mattdesl](https://github.com/mattdesl/module-best-practices)
 
