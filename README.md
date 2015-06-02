@@ -46,12 +46,13 @@ A list of styleguides
 ## Javascript
 * [AirBnB](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
+* [feross/standard](https://github.com/feross/standard)
 * [GitHub](https://github.com/styleguide/javascript/1.0)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [Joyent](https://www.joyent.com/developers/node/design)
-* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
-* [feross/standard](https://github.com/feross/standard)
 * [hapi](http://hapijs.com/styleguide)
+* [Joyent](https://www.joyent.com/developers/node/design)
+* [jscs](https://github.com/jscs-dev/node-jscs)
+* [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [rsjs](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
 
 ### AngularJS
