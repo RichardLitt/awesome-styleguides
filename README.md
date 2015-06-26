@@ -11,6 +11,7 @@ A list of styleguides
 * [Styleguides.io](https://github.com/maban/styleguides)
 * [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/)
 * [paulmillr](https://github.com/paulmillr/code-style-guides/)
+* [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides/)
 
 # Styleguides
 
