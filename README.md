@@ -119,3 +119,8 @@ A list of styleguides
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
 
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
