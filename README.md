@@ -21,6 +21,7 @@ A list of styleguides
 
 ## CSS
 * [CSSWizardry](http://cssguidelin.es/)
+  - This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested. - [@RichardLitt](https://github.com/RichardLitt)
 * [GitHub](https://github.com/styleguide/css)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
