@@ -5,6 +5,8 @@ A list of styleguides
 
 #### How to build a styleguide
 * [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet
+* [hugeinc/styleguide](https://github.com/hugeinc/styleguide) A tool to make creating and maintaining style guides easy. 
+http://hugeinc.github.io/styleguide
 
 #### Other Styleguide Lists
 * [Narkoz](https://github.com/narkoz/guides)
