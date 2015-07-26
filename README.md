@@ -87,6 +87,7 @@ http://hugeinc.github.io/styleguide
 
 ### React
 * [John Cobb](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+* [React-starter-kit](https://github.com/kriasoft/react-starter-kit/blob/master/docs/react-style-guide.md)
 
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
