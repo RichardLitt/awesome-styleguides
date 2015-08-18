@@ -1,8 +1,9 @@
 # Contribution Guidelines
 Please ensure your pull request adheres to the following guidelines:
 
+- Add a comment after the link to state why you think it is awesome, and briefly describing it.
+- Conform to this format: ` - [link](link). This is a comment about the thing.`
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- If you can, please add a comment after the link in italics to state why you think it is awesome.
 - Make an individual pull request for each suggestion.
 - Titles should be capitalized.
 - Link additions should be alphabetized.
