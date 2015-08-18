@@ -4,14 +4,14 @@ awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d730
 A list of styleguides
 
 #### How to build a styleguide
-* [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet
-* [hugeinc/styleguide](https://github.com/hugeinc/styleguide) A tool to make creating and maintaining style guides easy. 
-http://hugeinc.github.io/styleguide
+* [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet. Advocates Style Guide Driven Development, which is pretty snazzy.
+* [Huge's Styleguide Tool](https://github.com/hugeinc/styleguide) A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
+
 
 #### Other Styleguide Lists
+* [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
 * [Narkoz](https://github.com/narkoz/guides)
 * [Styleguides.io](https://github.com/maban/styleguides)
-* [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/)
 * [paulmillr](https://github.com/paulmillr/code-style-guides/)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides/)
 
