@@ -1,7 +1,11 @@
 awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===================
 
-A list of styleguides
+_:clipboard: A list of styleguides_
+
+#### Contributing
+
+If you have used any of these styleguides, please add a comment if you can! The more information, the better. Please look at  the [contribute](https://github.com/RichardLitt/awesome-styleguides/blob/master/contribute.md) file. Thanks!
 
 #### How to build a styleguide
 * [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet. Advocates Style Guide Driven Development, which is pretty snazzy.
