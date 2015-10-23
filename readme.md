@@ -61,6 +61,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [hapi](http://hapijs.com/styleguide)
 * [Joyent](https://www.joyent.com/developers/node/design)
 * [jscs](https://github.com/jscs-dev/node-jscs)
+* [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [rsjs](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
 
@@ -91,6 +92,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### React
 * [John Cobb](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+* [Khan](https://github.com/Khan/style-guides/blob/master/style/react.md)
 
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
@@ -100,6 +102,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [Github - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
 * [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
+* [Khan](https://github.com/Khan/objective-c-style-guide)
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) Gist with coding conventions.
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
