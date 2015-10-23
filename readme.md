@@ -17,6 +17,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
 * [Narkoz](https://github.com/narkoz/guides)
 * [paulmillr](https://github.com/paulmillr/code-style-guides)
+* [SalGnt](https://github.com/SalGnt/cscs)
 * [Styleguides.io](https://github.com/maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
 
