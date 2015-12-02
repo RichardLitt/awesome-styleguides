@@ -130,6 +130,10 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
 
+## PHP
+* [PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
+* [PSR-2: Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
