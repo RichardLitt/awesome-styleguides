@@ -110,6 +110,10 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) Guidelines for iOS development in use at Spotify.
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
 
+## PHP
+* [PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
+* [PSR-2: Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
+
 ## Python
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
