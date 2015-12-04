@@ -42,6 +42,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 * [Sass Guidelines](http://sass-guidelin.es/)
 
+## C++
+* [Google](https://google.github.io/styleguide/cppguide.html)
+
 ## Git
 * [agis-](https://github.com/agis-/git-style-guide)
 
