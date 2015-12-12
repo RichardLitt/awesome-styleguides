@@ -14,7 +14,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 
 #### Other Styleguide Lists
-* [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
+* [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
 * [Narkoz](https://github.com/narkoz/guides)
 * [paulmillr](https://github.com/paulmillr/code-style-guides)
 * [SalGnt](https://github.com/SalGnt/cscs)
@@ -30,16 +30,16 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## CSS
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices)
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
-* [GitHub](https://github.com/styleguide/css)
+* [GitHub](http://primercss.io)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
 * [rscss](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
-* [Smashing Magazine](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
+* [Smashing Magazine](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/)
 * [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
-* [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
+* [Wordpress.org](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 
 ### SASS
-* [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
+* [CSS-Tricks](https://css-tricks.com/sass-style-guide/)
 * [Sass Guidelines](http://sass-guidelin.es/)
 
 ## C++
@@ -73,7 +73,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ### AngularJS
 * [gocardless](https://github.com/gocardless/angularjs-style-guide)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angularjs-styleguide)
+* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide)
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide)
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide)
