@@ -50,6 +50,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## HTML
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [THX](https://github.com/thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
 
 ## Java
 * [Android](http://source.android.com/source/code-style.html)
