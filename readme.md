@@ -125,6 +125,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 ## Ruby
+* [AirBnB](https://github.com/airbnb/ruby)
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)
 
 ### Ruby on Rails
