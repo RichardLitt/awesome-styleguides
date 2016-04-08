@@ -127,6 +127,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## Ruby
 * [AirBnB](https://github.com/airbnb/ruby)
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)
+* [Github](https://github.com/styleguide/ruby) Based on bbatsov style guide
 
 ### Ruby on Rails
 * [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide)
