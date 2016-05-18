@@ -95,6 +95,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ### Modules
 * [mattdesl](https://github.com/mattdesl/module-best-practices)
 
+### npm
+* [npm Style Guide](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
+
 ### React
 * [John Cobb](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/react.md)
