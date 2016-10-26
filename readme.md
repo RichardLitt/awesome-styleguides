@@ -47,6 +47,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Git
 * [agis-](https://github.com/agis-/git-style-guide)
+* [Udacity](https://udacity.github.io/git-styleguide/) Git Commit Message Style Guide from Udacity
 
 ## HTML
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
