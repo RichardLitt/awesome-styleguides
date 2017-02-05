@@ -45,6 +45,9 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## C++
 * [Google](https://google.github.io/styleguide/cppguide.html)
 
+## Shell Script
+* [Google](https://google.github.io/styleguide/shell.xml)
+
 ## Git
 * [agis-](https://github.com/agis-/git-style-guide)
 * [Udacity](https://udacity.github.io/git-styleguide/) Git Commit Message Style Guide from Udacity.
