@@ -21,9 +21,6 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Styleguides.io](https://github.com/maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
 
-#### Historical
-* [Xerox Publishing Standards](https://archive.org/details/xeroxpublishingstan00xero) - the definitive reference to writing style and design for the business world. Provided courtesy of Xerox Corporation.
-
 # Styleguides
 
 ## Generic
@@ -148,6 +145,12 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [GitHub](https://github.com/github/swift-style-guide)
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
+
+# Non-Code
+
+## Historical
+
+* [Xerox Publishing Standards](https://archive.org/details/xeroxpublishingstan00xero) - the definitive reference to writing style and design for the business world. Provided courtesy of Xerox Corporation.
 
 # License
 
