@@ -149,6 +149,12 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
 
+# Non-Code
+
+## Historical
+
+* [Xerox Publishing Standards](https://archive.org/details/xeroxpublishingstan00xero) - the definitive reference to writing style and design for the business world. Provided courtesy of Xerox Corporation.
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
