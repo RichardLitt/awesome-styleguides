@@ -31,7 +31,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [CSS Best Practices](https://github.com/sezgi/CSS-Best-Practices)
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [Google](https://google.github.io/styleguide/htmlcssguide.xml)
 * [Idiomatic-CSS](https://github.com/necolas/idiomatic-css)
 * [rscss](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/)
@@ -50,20 +50,19 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Udacity](https://udacity.github.io/git-styleguide/) Git Commit Message Style Guide from Udacity.
 
 ## HTML
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [Google](https://google.github.io/styleguide/htmlcssguide.xml)
 * [THX](https://github.com/thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
 
 ## Java
 * [Android](http://source.android.com/source/code-style.html)
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Google](https://google.github.io/styleguide/javaguide.html)
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## Javascript
 * [AirBnB](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
-* [GitHub](https://github.com/styleguide/javascript/1.0)
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)
 * [Joyent](https://www.joyent.com/developers/node/design)
 * [jscs](https://github.com/jscs-dev/node-jscs)
@@ -73,7 +72,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ### AngularJS
 * [gocardless](https://github.com/gocardless/angularjs-style-guide)
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
+* [Google](https://google.github.io/styleguide/angularjs-google-style.html)
 * [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angular-styleguide)
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide)
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide)
@@ -88,7 +87,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) _Chinese_
 
 ### JSON
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
+* [Google](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ### jQuery
 * [Pragmatic jQuery](https://github.com/yuanyan/pragmatic-jquery)
@@ -126,7 +125,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [PSR-2: Coding Style Guide](http://www.php-fig.org/psr/psr-2/)
 
 ## Python
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+* [Google](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
