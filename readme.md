@@ -51,7 +51,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 
 # Other Styleguide Lists
-* [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
+* [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
 * [Narkoz](https://github.com/narkoz/guides)
 * [paulmillr](https://github.com/paulmillr/code-style-guides)
 * [SalGnt](https://github.com/SalGnt/cscs)
