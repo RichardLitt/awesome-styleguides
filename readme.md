@@ -11,7 +11,7 @@ _:clipboard: A list of styleguides_
 - [Styleguides](#styleguides)
 	- [Generic](#generic)
 	- [CSS](#css)
-		- [SASS](#sass)
+		- [Sass](#sass)
 	- [C++](#c)
 	- [Shell Script](#shell-script)
 	- [Git](#git)
@@ -75,7 +75,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 * [Wordpress.org](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 
-### SASS
+### Sass
 * [CSS-Tricks](https://css-tricks.com/sass-style-guide/)
 * [Sass Guidelines](http://sass-guidelin.es/)
 
