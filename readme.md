@@ -42,7 +42,7 @@ _:clipboard: A list of styleguides_
 
 # Contributing
 
-If you have used any of these styleguides, please add a comment if you can! The more information, the better. Please look at  the [contribute](https://github.com/RichardLitt/awesome-styleguides/blob/master/contribute.md) file. Thanks!
+If you have used any of these styleguides, please add a comment if you can! The more information, the better. Please look at  the [contributing](https://github.com/RichardLitt/awesome-styleguides/blob/master/contributing.md) file. Thanks!
 
 # How to build a styleguide
 * [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet. Advocates Style Guide Driven Development, which is pretty snazzy.
