@@ -188,6 +188,12 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 # Non-Code
 
+* [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide) - The guide for all BBC News output covers spelling, punctuation and grammar, as well as accuracy, fairness and impartiality.
+* [Bishop Fox Cybersecurity Style Guide](https://www.bishopfox.com/blog/2018/02/hello-world-introducing-the-bishop-fox-cybersecurity-style-guide/) - From malicious viruses to viral memes, for security researchers.
+* [BuzzFeed Style Guide](https://www.buzzfeed.com/emmyf/buzzfeed-style-guide) - An evolving set of standards for the internet and social media.
+* [Guardian and Observer Style Guide](https://www.theguardian.com/info/series/guardian-and-observer-style-guide) - The guide to writing, editing and English usage followed by journalists.
+* [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia%3aManual_of_Style) - The style manual for all Wikipedia articles.
+
 ## Historical
 
 * [Xerox Publishing Standards](https://archive.org/details/xeroxpublishingstan00xero) - The definitive reference to writing style and design for the business world. Provided courtesy of Xerox Corporation.
