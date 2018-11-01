@@ -32,12 +32,9 @@
 
 readonly PARALLEL_JOBS_COUNT=200
 readonly CURRENT_DIR=${TRAVIS_BUILD_DIR:=${PWD}}
-readonly CLONE_DIR="$CURRENT_DIR/mac-setup-master"
-
-git clone --depth 1 https://github.com/sb2nov/mac-setup mac-setup-master
 
 echo "🔎 Finding markdown files.."
-readonly MARKDOWN_FILES_STR=$(find "$CLONE_DIR" -type f -name "*.md")
+readonly MARKDOWN_FILES_STR=$(find "$CURRENT_DIR" -type f -name "*.md" -o -name "*.rst")
 readonly MARKDOWN_FILES_ARR=(${MARKDOWN_FILES_STR// / })
 
 if [ ${#MARKDOWN_FILES_ARR[@]} -eq 0 ]; then
@@ -51,7 +48,7 @@ echo "🔬 Parsing URLs.."
 URL_ARR=()
 for FILE in "${MARKDOWN_FILES_ARR[@]}"; do
   # Parse URL
-  URLS_STR=$(cat $FILE | grep -o -E 'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)')
+  URLS_STR=$(cat $FILE | grep -o -E 'https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,255}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)')
   # Split string into array
   URLS_STR_SPLIT=(${URLS_STR// / })
   for i in "${URLS_STR_SPLIT[@]}"; do
