@@ -17,7 +17,7 @@ _:clipboard: A list of styleguides_
 	- [Git](#git)
 	- [HTML](#html)
 	- [Java](#java)
-	- [Javascript](#javascript)
+	- [JavaScript](#javascript)
 		- [AngularJS](#angularjs)
 		- [CoffeeScript](#coffeescript)
 		- [HTTP Design](#http-design)
@@ -98,7 +98,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Google](https://google.github.io/styleguide/javaguide.html)
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
-## Javascript
+## JavaScript
 * [AirBnB](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
@@ -166,7 +166,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Python
 * [Google](https://google.github.io/styleguide/pyguide.html)
-* [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
+* [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
