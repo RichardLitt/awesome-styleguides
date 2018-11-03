@@ -1,0 +1,7 @@
+language: generic
+addons:
+  apt:
+    packages:
+      - parallel
+      - grep # Untested. Used with `ggrep` command in script, might need change
+script: /bin/bash ./scripts/health_check_links.sh
