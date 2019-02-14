@@ -99,7 +99,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## JavaScript
-* [AirBnB](https://github.com/airbnb/javascript)
+* [Airbnb](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
 * [Google](https://google.github.io/styleguide/jsguide.html)
@@ -171,7 +171,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 ## Ruby
-* [AirBnB](https://github.com/airbnb/ruby)
+* [Airbnb](https://github.com/airbnb/ruby)
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)
 * [GitHub](https://github.com/styleguide/ruby) - Based on bbatsov style guide.
 
@@ -182,6 +182,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [aturon](https://aturon.github.io)
 
 ## Swift
+* [Airbnb](https://github.com/airbnb/swift)
 * [GitHub](https://github.com/github/swift-style-guide)
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
