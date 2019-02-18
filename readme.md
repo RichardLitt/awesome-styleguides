@@ -169,6 +169,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [PEP 8 Offical Style Guide for Python](https://pep8.org/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
 
 ## Ruby
 * [Airbnb](https://github.com/airbnb/ruby)
