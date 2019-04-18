@@ -147,7 +147,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [RiotJS Style Guide](https://github.com/voorhoede/riotjs-style-guide#readme) - Opinionated RiotJS Style Guide for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
 
 ### Vue
-* [VueJs Style Guide](https://vuejs.org/v2/style-guide/) - The official style guide for Vue-specific code.
+* [Vue Style Guide](https://vuejs.org/v2/style-guide/) - The official style guide for Vue-specific code.
 
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
